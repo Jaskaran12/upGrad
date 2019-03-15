@@ -1,6 +1,8 @@
 import java.io.*;
 import java.util.*;
 
+
+/* Token class where it contains name CGPA and token*/
 class TOKEN{
     String name;
     float CGPA;
